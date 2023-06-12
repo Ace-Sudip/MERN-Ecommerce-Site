@@ -1,19 +1,18 @@
-MERN Stack E-Commerce App
+<h1>MERN Stack E-Commerce App</h1>
+Overview:<br>
 An e-commerce application built using the MERN stack (MongoDB, Express, React, Node.js)  and Redux for state management.
 
+Features:<br>
+Product catalog with search and filtering capabilities<br>
+Shopping cart features<br>
+Clean and user-friendly interface<br>
+Technologies Used:<br>
+- MongoDB(Mongoose)<br>
+- Express<br>
+- React.js<br>
+- Node.js<br>
+- Redux<br>
+- Bootstrap<br>
+- CSS<br>
 
-
-Features:
-Product catalog with search and filtering capabilities
-Shopping cart features
-Clean and user-friendly interface
-
-Built With
-- MongoDB(Mongoose)
-- Express
-- React
-- Node.js
-  Redux
-- Bootstrap
-
-Website Link: https://sudip-ecommerce.cyclic.app/
+Demo: https://sudip-ecommerce.cyclic.app/
